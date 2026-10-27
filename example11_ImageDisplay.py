@@ -14,7 +14,7 @@ st.header("1 — Display Image from URL")
 
 img_url = "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
 
-st.image(img_url, caption="A cute dog from Wikipedia", width=300)
+st.image(img_url, caption="A cute Cat from Wikipedia", width=300)
 
 st.markdown("---")
 
